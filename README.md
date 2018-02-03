@@ -26,7 +26,7 @@ Download a <span style="font-variant:small-caps;">SuBiC</span> model trained on 
 
 #### To test:
 
-For a quick test we provide VGG\_M\_128 features for pascalvoc images with labels, download from [link available soon]. Then, add the paths of the downloaded files in *test_subic.py* and run:
+For a quick test we provide VGG\_M\_128 features for pascalvoc images with labels, download from [link available soon]**. Then, add the paths of the downloaded files in *test_subic.py* and run:
 `ipython test_subic trained_model VGG_M_128 --m 8 --k 256 --testset pascalvoc_features`
 
 To test with settings we used in the paper, you need to put the path file(s) for images and labels in *test_subic.py* corresponding to their datasets.
@@ -40,4 +40,4 @@ by downloading this program, you commit to comply with the license as stated in 
 author: Jain Himalaya
 email: see [ICCV 2017](http://openaccess.thecvf.com/content_iccv_2017/html/Jain_SUBIC_A_Supervised_ICCV_2017_paper.html) paper for email adress.
 
-
+**Here is a temporary [link](https://drive.google.com/drive/folders/0Bz7VLuL7oLuvZmczV3gxSjVlTlk?usp=sharing) to a trained model and extracted VGG\_M\_128 feautes for PascalVOC, Caltech101 and ImageNet1000.
