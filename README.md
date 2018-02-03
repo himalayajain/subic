@@ -40,4 +40,4 @@ by downloading this program, you commit to comply with the license as stated in 
 author: Jain Himalaya
 email: see [ICCV 2017](http://openaccess.thecvf.com/content_iccv_2017/html/Jain_SUBIC_A_Supervised_ICCV_2017_paper.html) paper for email adress.
 
-**Here is a temporary [link](https://drive.google.com/drive/folders/0Bz7VLuL7oLuvZmczV3gxSjVlTlk?usp=sharing) to a trained model and extracted VGG\_M\_128 feautes for PascalVOC, Caltech101 and ImageNet1000.
+**Here is a temporary [link](https://drive.google.com/drive/folders/0Bz7VLuL7oLuvZmczV3gxSjVlTlk?usp=sharing) to a trained model and extracted VGG\_M\_128 features for PascalVOC, Caltech101 and ImageNet1000.
